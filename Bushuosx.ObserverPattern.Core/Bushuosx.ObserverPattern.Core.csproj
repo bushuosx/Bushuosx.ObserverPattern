@@ -3,6 +3,16 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <RootNamespace>Bushuosx.ObserverPattern</RootNamespace>
+    <Copyright />
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <Authors>Bushuosx</Authors>
+    <PackageProjectUrl>https://github.com/bushuosx/Bushuosx.ObserverPattern</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/bushuosx/Bushuosx.ObserverPattern</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <AssemblyVersion>1.0.0.1</AssemblyVersion>
+    <FileVersion>1.0.0.1</FileVersion>
   </PropertyGroup>
 
 </Project>
